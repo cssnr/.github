@@ -28,10 +28,3 @@ You can submit general feedback through the website.
 - [https://cssnr.github.io/feedback/](https://cssnr.github.io/feedback)
 
 It is however recommended to create an [Issue](#Issues) or contact us on [Discord](#Discord).
-
----
-
-[SUPPORT](https://github.com/cssnr/.github/blob/master/.github/SUPPORT.md#support) |
-[CONTRIBUTING](https://github.com/cssnr/.github/blob/master/.github/CONTRIBUTING.md#contributing) |
-[Website](https://cssnr.github.io/) |
-[GitHub](https://github.com/cssnr)
