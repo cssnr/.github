@@ -2,7 +2,6 @@
 
 - [Issues](#Issues)
 - [Discord](#Discord)
-- [Feedback](#Feedback)
 
 Please let us know if something is not working right or if you need help with a pull request.
 
